@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gregoryus97
 - 👀 I’m interested in Python Language
-- 🌱 I’m currently learning a course of Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python Total in Udemy
+- 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me ...
 
 <!---
